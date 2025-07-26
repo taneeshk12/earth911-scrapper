@@ -8,10 +8,10 @@ This project scrapes recycling center data from [Earth911](https://search.earth9
 
 | File Name              | Purpose |
 |------------------------|---------|
-| `scraper_selenium.py` | Scrapes facility links from Earth911's search result page using Selenium + BeautifulSoup |
+| `scraper.py & facility_scraper` | Scrapes facility links from Earth911's search result page using Selenium + BeautifulSoup |
 | `facility_links.csv`  | Contains collected facility links from the search result |
 | `facility_details.csv`| Full facility info including address, phone, accepted materials |
-| `llm_mapper.py`       | Uses LangChain + Groq API to classify materials and generate clean JSON |
+| `llm_scraper.py`       | Uses LangChain + Groq API to classify materials and generate clean JSON |
 | `final_structured.json` | Output file formatted according to the required material taxonomy |
 | `.env`                | Stores your GROQ_API_KEY securely (not uploaded to GitHub) |
 
