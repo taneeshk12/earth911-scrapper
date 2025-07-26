@@ -6,7 +6,6 @@ from langchain_groq import ChatGroq
 from langchain.prompts import PromptTemplate
 
 # Load environment variables
-load_dotenv()
 groq_api_key = "set your api key"
 
 # Initialize Groq LLM through LangChain
