@@ -1,0 +1,220 @@
+[
+  {
+    "business_name": "New York City Bulk Item Curbside Program",
+    "last_update_date": "Feb 23, 2016",
+    "street_address": "",
+    "materials_category": [
+      "Textiles & Clothing",
+      "Other Important Materials"
+    ],
+    "materials_accepted": [
+      {
+        "category": "Textiles & Clothing",
+        "accepted_items": [
+          "Clothing and Shoes",
+          "Household Textiles (Towels, Bedding)",
+          "Carpet",
+          "Carpet Padding"
+        ]
+      },
+      {
+        "category": "Other Important Materials",
+        "accepted_items": [
+          "Large Appliances (Fridges, Washers, etc.)",
+          "Air Conditioners",
+          "Dehumidifiers",
+          "Dishwashers",
+          "Freezers",
+          "Heaters",
+          "Household Furniture",
+          "Humidifiers",
+          "Lumber",
+          "Refrigerators",
+          "Stoves",
+          "Washer/Dryers",
+          "Barbeque Grills"
+        ]
+      }
+    ]
+  },
+  {
+    "business_name": "IMobile LLC",
+    "last_update_date": "Feb 29, 2012",
+    "street_address": "370 7th Ave",
+    "materials_category": [
+      "Electronics"
+    ],
+    "materials_accepted": [
+      "Material",
+      "Cell Phone Accessories",
+      "Cell Phones"
+    ]
+  },
+  {
+    "business_name": "The 4th Bin",
+    "last_update_date": "Feb 17, 2010",
+    "street_address": "307 7th Ave",
+    "materials_category": [
+      "Electronics"
+    ],
+    "materials_accepted": [
+      "Computers",
+      "Laptops",
+      "Monitors",
+      "TVs",
+      "Cell Phones",
+      "Printers",
+      "Audio/Video Equipment",
+      "Gaming Consoles",
+      "Computer Peripherals"
+    ]
+  },
+  {
+    "business_name": "Sprint Store",
+    "last_update_date": "Jul 30, 2013",
+    "street_address": "126 W 34th St",
+    "materials_category": [
+      "Electronics"
+    ],
+    "materials_accepted": [
+      "Material",
+      "Cell Phones",
+      "Cell Phone Accessories"
+    ]
+  },
+  {
+    "business_name": "Willoughby's",
+    "last_update_date": "Feb 11, 2011",
+    "street_address": "298 5th Ave",
+    "materials_category": [
+      "Electronics"
+    ],
+    "materials_accepted": [
+      "Cell Phones",
+      "Desktop Computers",
+      "Game Consoles",
+      "Lithium-ion Batteries",
+      "MP3 Players",
+      "Nickel-cadmium Batteries",
+      "Telephones"
+    ]
+  },
+  {
+    "business_name": "Cartridge World",
+    "last_update_date": "May 15, 2013",
+    "street_address": "225 West 23rd Street",
+    "materials_category": [
+      "Electronics",
+      "Textiles & Clothing"
+    ],
+    "materials_accepted": [
+      "Toner Cartridges",
+      "Inkjet Cartridges"
+    ]
+  },
+  {
+    "business_name": "ProTek Recycling Inc.",
+    "last_update_date": "Mar 25, 2013",
+    "street_address": "276 5th Avenue",
+    "materials_category": [
+      "Electronics"
+    ],
+    "materials_accepted": [
+      "Computers, Laptops, Tablets",
+      "Monitors, TVs (CRT & Flat Screen)",
+      "Cell Phones, Smartphones",
+      "Printers, Copiers, Fax Machines",
+      "Audio/Video Equipment",
+      "Gaming Consoles",
+      "Computers, Desktop",
+      "Computer Peripherals - External",
+      "Computer Peripherals - Internal",
+      "CRT Computer Monitors",
+      "CRT Televisions",
+      "LCD Computer Monitors",
+      "LCD Televisions",
+      "Small Appliances (Microwaves, Toasters, etc.)"
+    ]
+  },
+  {
+    "business_name": "Tekserve",
+    "last_update_date": "January 23, 2011",
+    "street_address": "119 W 23rd St",
+    "materials_category": [
+      "Electronics"
+    ],
+    "materials_accepted": [
+      {
+        "category": "Electronics",
+        "sub_category": "Computers, Laptops, Tablets",
+        "item": "Desktop Computers"
+      },
+      {
+        "category": "Electronics",
+        "sub_category": "Monitors, TVs (CRT & Flat Screen)",
+        "item": "LCD Computer Monitors"
+      },
+      {
+        "category": "Electronics",
+        "sub_category": "Printers, Copiers, Fax Machines",
+        "item": "Office Machines"
+      }
+    ]
+  },
+  {
+    "business_name": "Staples",
+    "last_update_date": "Sep 4, 2013",
+    "street_address": "500 8th Avenue",
+    "materials_category": [
+      "Electronics",
+      "Batteries",
+      "Paint & Chemicals",
+      "Medical Sharps",
+      "Textiles & Clothing",
+      "Other Important Materials"
+    ],
+    "materials_accepted": [
+      "Computers",
+      "Laptop",
+      "Tablets",
+      "Monitors",
+      "CRT & Flat Screen",
+      "Cell Phones",
+      "Smartphones",
+      "Printers",
+      "Copiers",
+      "Fax Machines",
+      "Audio/Video Equipment",
+      "Gaming Consoles",
+      "Small Appliances (Microwaves, Toasters, etc.)",
+      "Computer Peripherals (Keyboards, Mice, Cables, etc.)",
+      "Cell Phone Accessories",
+      "Computer Peripherals - External",
+      "CRT Computer Monitors",
+      "Desktop Computers",
+      "Digital Cameras",
+      "GPS Systems",
+      "Inkjet Cartridges",
+      "Laptop Computers",
+      "LCD Computer Monitors",
+      "Lithium-ion Batteries",
+      "MP3 Players",
+      "Nickel-cadmium Batteries",
+      "Office Machines",
+      "Paper Shredders",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "business_name": "Cartridge World",
+    "last_update_date": "May 15, 2013",
+    "street_address": "155 West 35th Street",
+    "materials_category": [
+      "Textiles & Clothing"
+    ],
+    "materials_accepted": [
+      "Clothing and Shoes",
+      "Household Textiles (Towels, Bedding)"
+    ]
+  }
+]
