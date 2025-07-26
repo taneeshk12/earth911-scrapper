@@ -7,7 +7,7 @@ from langchain.prompts import PromptTemplate
 
 # Load environment variables
 load_dotenv()
-groq_api_key = "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"
+groq_api_key = "set your api key"
 
 # Initialize Groq LLM through LangChain
 llm = ChatGroq(api_key=groq_api_key, model="llama-3.1-8b-instant")
